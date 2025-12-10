@@ -1,4 +1,5 @@
-package learnCode;
+package learnCode.day1;
+// 1. 第一个Java程序
 
 public class HelloWorld {
     /*
