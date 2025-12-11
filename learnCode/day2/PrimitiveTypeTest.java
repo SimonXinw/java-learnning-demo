@@ -1,5 +1,8 @@
 package learnCode.day2;
 
+/**
+ * 基本类型测试
+ */
 public class PrimitiveTypeTest {
     public static void main(String[] args) {
         // byte
